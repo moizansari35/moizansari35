@@ -17,9 +17,9 @@
   <a href="https://github.com/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/moizansari35" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ <a href="https://www.linkedin.com/in/moiz-ahmed-ansari-0618b6289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   <a href="https://www.indeed.com/me/your-moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Badge"/>
   </a>
