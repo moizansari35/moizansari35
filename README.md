@@ -13,7 +13,7 @@
 
 ### 📱 Connect with me
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://github.com/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
