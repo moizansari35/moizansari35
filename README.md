@@ -20,7 +20,7 @@
  <a href="https://www.linkedin.com/in/moiz-ahmed-ansari-0618b6289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-  <a href="https://www.indeed.com/me/your-moizansari35" target="_blank">
+  <a href="https://profile.indeed.com/p/moizahmeda-c3r643v" target="_blank">
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Badge"/>
   </a>
   <!--
