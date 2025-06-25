@@ -14,9 +14,15 @@
 ### 📱 Connect with me
 
 <div id="badges">
-<a href="mailto:moizansari35@gmail.com" target="_blank">
+<!-- <a href="mailto:moizansari35@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+</a> -->
+<!--   <a href="https://github.com/moizansari35" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a> -->
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://github.com/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
