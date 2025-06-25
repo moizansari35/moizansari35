@@ -17,9 +17,9 @@
 - 🔭 Working on **Modern Mobile Apps** using Flutter
 - 🧠 Exploring **Firebase, REST APIs,** and **backend tools**
 - 💬 Ask me about **Flutter, Firebase, APIs, UI/UX**, and **App performance**
-- 📫 Reach me at: [moizansari35@gmail.com](mailto:moizansari35@gmail.com)
 - 🎯 Mission: Craft seamless, scalable and visually polished mobile applications
 - 🚀 Always exploring innovative ways to build high-performance, impactful mobile apps
+- 📫 Reach me at: [moizansari35@gmail.com](mailto:moizansari35@gmail.com)
 ---
 
 ## 🌐 Connect With Me
