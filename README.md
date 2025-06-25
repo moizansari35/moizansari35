@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moiz Ahmed Ansari</h1>
-<h3 align="center"><!--💻-->📱 Flutter Developer | 🔥 Firebase & API Integration | 🎨 Passionate About Clean, Modern & Interactive UI/UX</h3>
+<h3 align="center"><!--💻-->📱 Flutter Developer | 🔥 Firebase & API Integration | 🎨 Focused on Modern & Interactive UI/UX</h3>
 <!-- <h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | Clean UI Lover</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Crafting+Intuitive+UI%2FUX+Experiences;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Crafting+Intuitive+UI%2FUX+Experiences;Leveling+Up+Through+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!--<p align="center">
