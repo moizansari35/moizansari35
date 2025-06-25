@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter mobile apps**
 - 🌱 I’m currently learning **Backend development** <!-- (Node.js, Firebase, APIs)-->
-- 💬 Ask me anything about **Flutter, Dart, Firebase, UI/UX**
+- 💬 Ask me anything about **Flutter, Dart, Firebase, API, UI/UX**
 - 📫 Reach me at: **moizansari35@gmail.com**
 - 🚀 Always exploring ways to build fast and amazing apps
 
@@ -14,6 +14,9 @@
 ### 📱 Connect with me
 
 <div id="badges">
+<a href="mailto:moizansari35@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
   <a href="https://github.com/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
