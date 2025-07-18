@@ -33,7 +33,7 @@
   <a href="https://github.com/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/moiz-ahmed-ansari-0618b6289/" target="_blank">
+  <a href="https://www.linkedin.com/in/moizansari35" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://profile.indeed.com/p/moizahmeda-c3r643v" target="_blank">
