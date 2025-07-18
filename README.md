@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moizansari35/moizansari35/main/github_banner.png" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Moiz Ahmed Ansari</h1>
 <h3 align="center"><!--💻-->📱 Flutter Developer | 🔥 Firebase & API Integration | 🎨 Focused on Modern & Interactive UI/UX</h3>
 <!-- <h3 align="center">🚀 Flutter Developer | Firebase Enthusiast | Clean UI Lover</h3> -->
